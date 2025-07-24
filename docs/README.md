@@ -4,7 +4,7 @@
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](STATUS.md)
 [![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-red.svg)](CHANGELOG.md)
 
-![Project Banner](assets/readme/repo-project-banner.jpg)
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=The+API+builder+that+doesn't+suck&font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&height=45&cursor=true">
