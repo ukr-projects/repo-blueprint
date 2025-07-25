@@ -131,13 +131,14 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 ## 📞 Support
 
 - 📧 Email: ujjwalkrai@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/ukr-projects/repo-blueprint/issues)
-- 📖 Docs: [Documentation Site](https://github.com/ukr-projects/repo-blueprint/docs)
+- 🐛 Issues: [Repo Issues](https://github.com/ukr-projects/repo-blueprint/issues)
+- 🔓 Security: [Repo Security](https://github.com/ukr-projects/repo-blueprint/security)
+- ⛏ Pull Request: [Repo Pull Request](https://github.com/ukr-projects/repo-blueprint/pulls)
+- 📖 Docs: [Repo Documentation](https://github.com/ukr-projects/repo-blueprint/docs)
 
 ---
 
 ## 🔗 Connect
-
 
 
 ---
