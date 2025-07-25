@@ -8,11 +8,15 @@
   <img src="../assets/readme/repo-project-banner.jpg" alt="Project Banner" width="80%">
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+Boilerplate+repo+that+doesn't+suck&font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=45&cursor=true">
-</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Boilerplate+repo+that+doesn't+suck&font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=30&cursor=true">
+</div>
+
+---
 
 ![Gif](../assets/readme/slideshow.gif)
+
+---
 
 ## ✨ Features
 - **Feature 1**: Brief description of key functionality
