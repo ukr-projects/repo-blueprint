@@ -1,4 +1,4 @@
-# Repo Blueprint
+<h1>Repo Blueprint</h1> 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](STATUS.md)
