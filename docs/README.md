@@ -4,39 +4,15 @@
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](STATUS.md)
 [![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-red.svg)](CHANGELOG.md)
 
-
+<div align="center">
+  <img src="../assets/readme/repo-project-banner.jpg" alt="Project Banner" width="80%">
+</div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+API+builder+that+doesn't+suck&font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&height=45&cursor=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Boilerplate+repo+that+doesn't+suck&font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=45&cursor=true">
 </h2>
 
----
-
-<div align="center">
-  <h3>📸 Project Gallery</h3>
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://via.placeholder.com/400x300/FF6B6B/FFFFFF?text=Home+Screen" alt="Home Screen" style="width: 100%; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-        <p><strong>Home Screen</strong><br/>Main dashboard interface</p>
-      </td>
-      <td width="50%">
-        <img src="https://via.placeholder.com/400x300/4ECDC4/FFFFFF?text=Settings+Page" alt="Settings Page" style="width: 100%; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-        <p><strong>Settings Page</strong><br/>Configuration options</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://via.placeholder.com/400x300/45B7D1/FFFFFF?text=Data+View" alt="Data View" style="width: 100%; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-        <p><strong>Data Visualization</strong><br/>Analytics and charts</p>
-      </td>
-      <td width="50%">
-        <img src="https://via.placeholder.com/400x300/96CEB4/FFFFFF?text=Mobile+View" alt="Mobile View" style="width: 100%; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-        <p><strong>Mobile Interface</strong><br/>Responsive design</p>
-      </td>
-    </tr>
-  </table>
-</div>
+![Gif](../assets/readme/slideshow.gif)
 
 ## ✨ Features
 - **Feature 1**: Brief description of key functionality
@@ -46,7 +22,7 @@
 
 ---
 
-## 🆕 What’s New in v0.1.0
+## 🎉 What’s New in v0.1.0
 
 - **Professional UI Redesign**
   - Complete visual overhaul with a new professional dark theme.
