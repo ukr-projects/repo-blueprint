@@ -1,4 +1,7 @@
-<h1>Repo Blueprint</h1> 
+<h1>
+  <img src="../assets/readme/repo-blueprint-logo.png" alt="Project Logo" width="25" height="25" style="vertical-align: middle;">
+  Repo Blueprint
+</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](STATUS.md)
