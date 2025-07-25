@@ -1,5 +1,5 @@
 <h1>
-  <img src="../assets/readme/repo-blueprint-logo.png" alt="Project Logo" width="25" height="25" style="vertical-align: middle;">
+  <img src="../assets/repo-blueprint-logo.png" alt="Project Logo" width="25" height="25" style="vertical-align: middle;">
   Repo Blueprint
 </h1>
 
@@ -8,7 +8,7 @@
 [![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-red.svg)](CHANGELOG.md)
 
 <div align="center">
-  <img src="../assets/readme/repo-project-banner.jpg" alt="Project Banner" width="80%">
+  <img src="../assets/repo-project-banner.jpg" alt="Project Banner" width="80%">
 </div>
 
 <div align="center">
