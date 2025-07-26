@@ -5,14 +5,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](STATUS.md)
-[![Version: 0.1.0](https://img.shields.io/badge/Version-1.0.0-red.svg)](CHANGELOG.md)
+[![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-red.svg)](CHANGELOG.md)
 
 <div align="center">
   <img src="../assets/repo-blueprint-banner.jpg" alt="Project Banner" width="80%">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+Boilerplate+repo+that+doesn't+suck&font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=30&cursor=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=The+Boilerplate+repo+that+doesn't+suck&font=Fira%20Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&height=30&cursor=true">
 </div>
 
 ---
@@ -22,13 +22,6 @@
   <img src="../assets/screenshots/community-standard.jpg" alt="Community Standards" />
   <p><em>Community Standards</em></p>
 </div>
-
----
-
-## ✨ Features
-- **Clean and Professional**: It has a proper structure and beautiful Readme
-- **Easy to Use and Reusable**: This template can be used in most of the mordern repo's
-- **Simple and Detailed**: It is properly documented and follows community standards
 
 ---
 
@@ -43,6 +36,13 @@
   - Added two Issue Templates (Bug and Feature Template)
 - **Added SECURITY.md**
   - Minimal SECURITY.md that can be modified for any repository or project
+
+---
+
+## ✨ All Features
+- **Clean and Professional**: It has a proper structure and beautiful Readme
+- **Easy to Use and Reusable**: This template can be used in most of the mordern repo's
+- **Simple and Detailed**: It is properly documented and follows community standards
 
 ---
 
