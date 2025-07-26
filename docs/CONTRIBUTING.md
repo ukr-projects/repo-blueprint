@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
    git remote add upstream https://github.com/ukr-projects/repo-blueprint.git
    ```
 4. Review the project structure:
-   ```
+```
 repo-blueprint/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
@@ -59,7 +59,7 @@ repo-blueprint/
 │   ├── README.md
 │   └── SECURITY.md
 └── LICENSE
-   ```
+```
 
 ## How to Contribute
 
