@@ -305,7 +305,7 @@ git push origin feature/new-template
 - **🐛 Issues**: [Repository Issues](https://github.com/ukr-projects/repo-blueprint/issues)
 - **🔓 Security**: [Repository Security](https://github.com/ukr-projects/repo-blueprint/security)
 - **⛏ Pull Requests**: [Repository Pull Requests](https://github.com/ukr-projects/repo-blueprint/pulls)
-- **📖 Documentation**: [Repository Documentation](https://github.com/ukr-projects/repo-blueprint/docs)
+- **📖 Documentation**: [Repository Documentation](https://github.com/ukr-projects/repo-blueprint/tree/main/docs)
 
 ### Need Help?
 
