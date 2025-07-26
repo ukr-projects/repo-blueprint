@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](STATUS.md)
-[![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-red.svg)](CHANGELOG.md)
+[![Version: 0.1.0](https://img.shields.io/badge/Version-1.0.0-red.svg)](CHANGELOG.md)
 
 <div align="center">
   <img src="../assets/repo-blueprint-banner.jpg" alt="Project Banner" width="80%">
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎉 What’s New in v0.1.0
+## 🎉 What’s New in v1.0.0
 
 - **Professional README.md Redesign**
   - Complete visual overhaul with a new professional look.
