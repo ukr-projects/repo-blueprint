@@ -291,12 +291,13 @@ your-project/
 **Problem**: Multiple README files causing confusion
 **Solution**: Choose either root README.md or docs/README.md as primary, link to the other
 
-### Getting Help
+### 📞 Support
 
-- **Issues**: Report problems via [GitHub Issues](https://github.com/ukr-projects/repo-blueprint/issues)
-- **Discussions**: Join community discussions for general questions
-- **Documentation**: Check docs folder for additional guidance
-- **Contact**: Reach out to maintainers for specific concerns
+- **📧 Email**: [ujjwalkrai@gmail.com](mailto:ujjwalkrai@gmail.com)
+- **🐛 Issues**: [Repository Issues](https://github.com/ukr-projects/repo-blueprint/issues)
+- **🔓 Security**: [Repository Security](https://github.com/ukr-projects/repo-blueprint/security)
+- **⛏ Pull Requests**: [Repository Pull Requests](https://github.com/ukr-projects/repo-blueprint/pulls)
+- **📖 Documentation**: [Repository Documentation](https://github.com/ukr-projects/repo-blueprint/docs)
 
 ### Contributing Back
 
