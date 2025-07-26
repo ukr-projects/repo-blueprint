@@ -69,8 +69,7 @@ Special thanks to:
 SHA256: [checksum-here]
 MD5: [checksum-here]
 ```
-
-### 🔗 Useful Links
+## 📞 Support
 
 - 📧 Email: ujjwalkrai@gmail.com
 - 🐛 Issues: [Repo Issues](https://github.com/ukr-projects/repo-blueprint/issues)
@@ -78,7 +77,6 @@ MD5: [checksum-here]
 - ⛏ Pull Request: [Repo Pull Request](https://github.com/ukr-projects/repo-blueprint/pulls)
 - 📖 Docs: [Repo Documentation](https://github.com/ukr-projects/repo-blueprint/docs)
 - 📃 Changelog: [Repo Changelog](https://github.com/ukr-projects/repo-blueprint/docs/CHANGELOG.md)
-
 ---
 
 *This release source code was tested on: Windows, MacOS and Ubuntu*

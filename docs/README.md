@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 - 🔓 Security: [Repo Security](https://github.com/ukr-projects/repo-blueprint/security)
 - ⛏ Pull Request: [Repo Pull Request](https://github.com/ukr-projects/repo-blueprint/pulls)
 - 📖 Docs: [Repo Documentation](https://github.com/ukr-projects/repo-blueprint/docs)
-
+- 📃 Changelog: [Repo Changelog](https://github.com/ukr-projects/repo-blueprint/docs/CHANGELOG.md)
 ---
 
 ## 🔗 Connect
