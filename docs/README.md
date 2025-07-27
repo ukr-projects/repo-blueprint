@@ -8,7 +8,7 @@
 [![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-red.svg)](CHANGELOG.md)
 
 <div align="center">
-  <img src="../assets/repo-blueprint-banner.jpg" alt="Project Banner" width="80%">
+  <img src="../assets/repo-blueprint-banner.jpg" alt="Project Banner" width="100%">
 </div>
 
 <div align="center">
